@@ -18,5 +18,14 @@ Frontend: https://github.com/Rafa-Roodrigues/Loquei-Frontend
 Backend: https://github.com/Rafa-Roodrigues/Loquei-Backend
 
 <h2>Video do projeto finalizado</h2>
-https://user-images.githubusercontent.com/56421375/210851868-34de209d-9f01-4f23-9f33-bb779a1c9641.mp4
+<h4>Parte 1</h4>
+
+https://user-images.githubusercontent.com/56421375/210854356-419fcc62-bf3f-4ed3-b086-eeaa92293ec3.mp4
+
+
+<h4>Parte 2</h4>
+
+
+
+https://user-images.githubusercontent.com/56421375/210855446-b7459e1a-cd38-414e-8532-17961cf664da.mp4
 
